@@ -7,8 +7,11 @@ En este repositorio encontraremos proyectos utilizando diferentes sensores. Se i
 
 ![App Screenshot](https://i0.wp.com/www.teslaelectronic.com.pe/wp-content/uploads/2021/07/156A.-KIT.Arduino.Uno_.IoT_.V7.png?fit=1632%2C1556&ssl=1)
 
-![App Screenshot](https://universoabiertoblog.files.wordpress.com/2020/02/1920px-logo-tinkercad-wordmark.svg_.png?w=441&h=144)
+![App Screenshot](https://europe1.discourse-cdn.com/arduino/original/4X/d/a/a/daa403c6b326e31ea5cb54c9782d5be8803f4d88.png)
 ## Authors
 
 - [@LuisOchoa1495](https://www.github.com/LuisOchoa1495)
+
+## 🔗 Tinkercad LINK
+[![tinkercad](https://www.instructables.com/assets/img/education/channel-tinkercad.png)](https://www.tinkercad.com/dashboard?type=circuits&collection=designs)
 
