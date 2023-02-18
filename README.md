@@ -13,5 +13,5 @@ En este repositorio encontraremos proyectos utilizando diferentes sensores. Se i
 - [@LuisOchoa1495](https://www.github.com/LuisOchoa1495)
 
 ## 🔗 Tinkercad LINK
-[![tinkercad](https://allvectorlogo.com/img/2017/07/tinkercad-logo.png)](https://www.tinkercad.com/users/j3UGxw62oc4?category=circuits&sort=likes&view_mode=default)
+[![tinkercad](https://seeklogo.com/images/T/tinkercad-logo-725CB8E552-seeklogo.com.png)](https://www.tinkercad.com/users/j3UGxw62oc4?category=circuits&sort=likes&view_mode=default)
 
